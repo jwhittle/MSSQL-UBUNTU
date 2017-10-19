@@ -1,0 +1,10 @@
+
+.vagrant/machines/acs/virtualbox/action_provision
+.vagrant/machines/acs/virtualbox/action_set_name
+.vagrant/machines/acs/virtualbox/creator_uid
+.vagrant/machines/acs/virtualbox/id
+.vagrant/machines/acs/virtualbox/index_uuid
+.vagrant/machines/acs/virtualbox/private_key
+.vagrant/machines/acs/virtualbox/synced_folders
+.vagrant/machines/acs/virtualbox/vagrant_cwd
+ubuntu-xenial-16.04-cloudimg-console.log
